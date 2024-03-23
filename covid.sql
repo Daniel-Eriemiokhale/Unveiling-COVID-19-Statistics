@@ -1,5 +1,5 @@
 /*
- Exploring Data on the Coronavirus
+ Exploring Data on Covid19
 
  Skills employed: Joining datasets, Common Table Expressions (CTEs), Temporary Tables, Window Functions, Aggregate Functions, Generating Views, Data Type Conversion
 
